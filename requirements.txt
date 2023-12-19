@@ -1,4 +1,4 @@
-langchain==0.0.350
-deeplake==3.8.12
-openai==1.5.0
+langchain==0.0.208
+deeplake
+openai==0.27.8
 
